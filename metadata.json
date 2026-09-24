@@ -1,0 +1,6 @@
+{
+  "name": "EditorialPulse CMS & AI Studio",
+  "description": "Production-grade AI editorial CMS, SEO blog, RSS content discovery automation, and MAGIC agent platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
